@@ -22,6 +22,12 @@ Building smooth, modern web apps from scratch—automating, analyzing data, and 
 
 ---
 
+### 🧩 My portfolio
+
+Check out my personal portfolio **visiting**  [zerodev8.github.io/Portfolio-Angular](https://zerodev8.github.io/Portfolio-Angular/)
+
+---
+
 ### 🚀 Featured Project: OpositaAGACE
 
 <p align="center">
