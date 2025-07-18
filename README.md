@@ -49,7 +49,7 @@ Building smooth, modern web apps from scratch—automating, analyzing data, and 
 
 ### 💼 Experience
 
-- **Full Stack Developer** @ MERCANZA (2024–present): Backends with Django/FastAPI, AWS infrastructure, data analysis, ML models.
+- **Full Stack Developer** @ MERCANZA (2024–present): Backends with Django/FastAPI, Frontends with JS/HTML/Tailwind, AWS infrastructure, data analysis, ML models.
 - **Freelance Developer** @ OAGACE (2024): Custom Django web apps, AWS, SEO/SEM.
 
 ---
